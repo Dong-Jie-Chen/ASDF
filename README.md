@@ -1,7 +1,7 @@
 # ASDF
 Autism Spectrum Disorder Face (ASDF) Dataset
 
-Autism Spectrum Disorder Face (ASDF) dataset is a collection of children's facial landmark features extracted from videos captured for ASD screening~\cite{ozonoff2010prospective}. The dataset has 2,675,540 299-dimensional feature vectors consisting of facial landmarks, head pose, eye gaze and facial action units. Our target classification task is smile detection and the dateset is partitioned into 2,160,093 training and 515,447 testing samples.
+Autism Spectrum Disorder Face (ASDF) dataset is a collection of children's facial landmark features extracted from videos captured for ASD screening. The dataset has 2,675,540 299-dimensional feature vectors consisting of facial landmarks, head pose, eye gaze and facial action units. Our target classification task is smile detection and the dateset is partitioned into 2,160,093 training and 515,447 testing samples.
 
 <p align="center">
     <img src="img/openface_real.png" width="600"\>
