@@ -8,17 +8,19 @@ Autism Spectrum Disorder Face (ASDF) dataset is a collection of children's facia
 </p>
 
 We have also transformed images of facial landmarks into image segmentation masks with shapes 128x128.
+
 Each mask contains six different labels:
-0: background
-1: jawline
-2: eyebrows
-3: nose
-4: eyes
-5: mouth
+
+* 0: background 
+* 1: jawline
+* 2: eyebrows
+* 3: nose
+* 4: eyes
+* 5: mouth
 
 <p align="center">
-    <img src="img/segmentation example 1.png" width="300"\>
-    <img src="img/segmentation example 2.png" width="300"\>
+    <img src="img/segmentation example 1.png" height="600"\>
+    <img src="img/segmentation example 2.png" height="600"\>
 </p>
 
 
